@@ -1,0 +1,10 @@
+from .health import bp as health_bp
+from .datasets import bp as datasets_bp
+from .preprocessing import bp as preprocessing_bp
+from .features import bp as features_bp
+from .mining import bp as mining_bp
+from .models import bp as models_bp
+from .warehouse import bp as warehouse_bp
+from .map import bp as map_routes
+from .reports import bp as reports_bp
+from .dashboard import bp as dashboard_bp
